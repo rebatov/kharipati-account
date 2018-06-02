@@ -1,0 +1,280 @@
+{"message":"Cannot read property 'name' of undefined","stack":"TypeError: Cannot read property 'name' of undefined\n    at Function.module.exports.create (/home/rebatov/workspace/personal/kharipati-account/system/db/db.js:94:46)\n    at Object.module.exports.create (/home/rebatov/workspace/personal/kharipati-account/system/db/index.js:7:17)\n    at cb (/home/rebatov/workspace/personal/kharipati-account/system/index.js:17:8)\n    at Object.module.exports.createDB (/home/rebatov/workspace/personal/kharipati-account/system/index.js:26:10)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/app.js:27:8)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.runMain (module.js:604:10)\n    at run (bootstrap_node.js:389:7)\n    at startup (bootstrap_node.js:149:9)\n    at bootstrap_node.js:502:3","level":"error","timestamp":"2018-01-01T04:30:27.802Z"}
+{"message":"Cannot read property 'name' of undefined","stack":"TypeError: Cannot read property 'name' of undefined\n    at Function.module.exports.create (/home/rebatov/workspace/personal/kharipati-account/system/db/db.js:94:46)\n    at Object.module.exports.create (/home/rebatov/workspace/personal/kharipati-account/system/db/index.js:7:17)\n    at cb (/home/rebatov/workspace/personal/kharipati-account/system/index.js:17:8)\n    at Object.module.exports.createDB (/home/rebatov/workspace/personal/kharipati-account/system/index.js:26:10)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/app.js:27:8)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.runMain (module.js:604:10)\n    at run (bootstrap_node.js:389:7)\n    at startup (bootstrap_node.js:149:9)\n    at bootstrap_node.js:502:3","level":"error","timestamp":"2018-01-01T04:31:21.180Z"}
+{"message":"Cannot read property 'name' of undefined","stack":"TypeError: Cannot read property 'name' of undefined\n    at Function.module.exports.create (/home/rebatov/workspace/personal/kharipati-account/system/db/db.js:94:46)\n    at Object.module.exports.create (/home/rebatov/workspace/personal/kharipati-account/system/db/index.js:7:17)\n    at cb (/home/rebatov/workspace/personal/kharipati-account/system/index.js:17:8)\n    at Object.module.exports.createDB (/home/rebatov/workspace/personal/kharipati-account/system/index.js:26:10)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/app.js:27:8)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.runMain (module.js:604:10)\n    at run (bootstrap_node.js:389:7)\n    at startup (bootstrap_node.js:149:9)\n    at bootstrap_node.js:502:3","level":"error","timestamp":"2018-01-01T04:31:54.386Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T04:33:35.156Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T04:33:35.172Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T04:33:35.174Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:16:37.639Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:16:37.656Z"}
+{"message":"client is not defined","stack":"ReferenceError: client is not defined\n    at module.exports (/home/rebatov/workspace/personal/kharipati-account/server/routes/index.js:4:34)\n    at Object.start (/home/rebatov/workspace/personal/kharipati-account/app.js:21:5)\n    at system.createDB.then (/home/rebatov/workspace/personal/kharipati-account/app.js:29:12)","level":"error","timestamp":"2018-01-01T06:16:37.657Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:17:33.003Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:17:33.019Z"}
+{"message":"Cannot find module '../../model/client'","stack":"Error: Cannot find module '../../model/client'\n    at Function.Module._resolveFilename (module.js:469:15)\n    at Function.Module._load (module.js:417:25)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/controller/client/client.controller.js:3:16)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/controller/client/index.js:2:16)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)","code":"MODULE_NOT_FOUND","level":"error","timestamp":"2018-01-01T06:17:33.020Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:19:15.587Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:19:15.605Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:19:15.609Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:33:10.192Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:33:10.208Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:33:10.212Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:35:11.789Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:35:11.805Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:35:11.809Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:37:08.561Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:37:08.582Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:37:08.578Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:37:30.922Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:37:30.939Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:37:30.944Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:38:56.356Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:38:56.373Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:38:56.377Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:39:04.923Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:39:04.939Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:39:04.943Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:39:12.091Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:39:12.107Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:39:12.113Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:39:39.412Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:39:39.428Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:39:39.433Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:40:54.571Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:40:54.592Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:40:54.587Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:41:14.555Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:41:14.571Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:41:14.575Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:41:34.855Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:41:34.873Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:41:34.877Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:42:25.330Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:42:25.347Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:42:25.352Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:44:13.162Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:44:13.179Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:44:13.183Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:45:04.842Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:45:04.859Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:45:04.864Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:45:57.515Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:45:57.532Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:45:57.536Z"}
+{"level":"info","message":"@client.controller @deleteClient :: Success :: {\"ok\":1,\"n\":1}","timestamp":"2018-01-01T06:46:01.937Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:46:57.887Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:46:57.905Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:46:57.909Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T06:47:29.076Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T06:47:29.091Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T06:47:29.096Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T09:16:52.123Z"}
+{"message":"Route.get() requires a callback function but got a [object Undefined]","stack":"Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.(anonymous function) [as get] (/home/rebatov/workspace/personal/kharipati-account/node_modules/express/lib/router/route.js:202:15)\n    at Function.proto.(anonymous function) [as get] (/home/rebatov/workspace/personal/kharipati-account/node_modules/express/lib/router/index.js:510:19)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/controller/admin/index.js:10:8)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/routes/index.js:3:15)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)","level":"error","timestamp":"2018-01-01T09:16:52.166Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T09:28:32.851Z"}
+{"message":"Route.get() requires a callback function but got a [object Undefined]","stack":"Error: Route.get() requires a callback function but got a [object Undefined]\n    at Route.(anonymous function) [as get] (/home/rebatov/workspace/personal/kharipati-account/node_modules/express/lib/router/route.js:202:15)\n    at Function.proto.(anonymous function) [as get] (/home/rebatov/workspace/personal/kharipati-account/node_modules/express/lib/router/index.js:510:19)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/controller/admin/index.js:10:8)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/routes/index.js:3:15)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)","level":"error","timestamp":"2018-01-01T09:28:32.874Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T09:28:32.869Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T09:30:23.523Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T09:30:23.541Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T09:30:23.546Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T09:31:49.276Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T09:31:49.294Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T09:31:49.299Z"}
+{"message":"Cannot read property 'user_id' of undefined","stack":"TypeError: Cannot read property 'user_id' of undefined\n    at dumpSuperUser (/home/rebatov/workspace/personal/kharipati-account/server/middleware/index.js:10:34)\n    at Object.<anonymous> (/home/rebatov/workspace/personal/kharipati-account/server/middleware/index.js:32:1)\n    at Module._compile (module.js:570:32)\n    at Object.Module._extensions..js (module.js:579:10)\n    at Module.load (module.js:487:32)\n    at tryModuleLoad (module.js:446:12)\n    at Function.Module._load (module.js:438:3)\n    at Module.require (module.js:497:17)\n    at require (internal/module.js:20:19)\n    at Object.start (/home/rebatov/workspace/personal/kharipati-account/app.js:23:5)\n    at system.createDB.then (/home/rebatov/workspace/personal/kharipati-account/app.js:30:12)","level":"error","timestamp":"2018-01-01T09:31:49.301Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-01-01T09:46:59.315Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-01-01T09:46:59.335Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-01-01T09:46:59.340Z"}
+{"level":"info","message":"Super Admin created!","timestamp":"2018-01-01T09:46:59.388Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:08:20.862Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:08:20.933Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:08:20.897Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:08:20.977Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:26:22.863Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:26:22.886Z"}
+{"message":"Cannot read property 'login' of undefined","stack":"TypeError: Cannot read property 'login' of undefined\n    at module.exports (/home/rebatov/workspace/personal/kharipati-account/server/routes/index.js:11:37)\n    at Object.start (/home/rebatov/workspace/personal/kharipati-account/app.js:21:5)\n    at system.createDB.then (/home/rebatov/workspace/personal/kharipati-account/app.js:30:12)","level":"error","timestamp":"2018-04-15T07:26:22.898Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:26:22.933Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:26:59.543Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:26:59.563Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:26:59.570Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:26:59.596Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:27:14.951Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:27:14.977Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:27:14.969Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:27:15.004Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:28:07.081Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:28:07.102Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:28:07.112Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:28:07.141Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:30:33.484Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:30:33.506Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:30:33.513Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:30:33.554Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:33:13.257Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:33:13.275Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:33:13.282Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:33:13.309Z"}
+{"level":"info","message":"@client.controller @deleteClient :: Success :: {\"ok\":1,\"n\":1}","timestamp":"2018-04-15T07:33:57.975Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:34:59.267Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:34:59.297Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:34:59.307Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:34:59.335Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:35:45.436Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:35:45.454Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:35:45.462Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:35:45.487Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:36:26.835Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:36:26.866Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:36:26.902Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:36:26.938Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:36:52.646Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:36:52.666Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:36:52.678Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:36:52.713Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:37:18.417Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:37:18.444Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:37:18.452Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:37:18.477Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:38:21.737Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:38:21.756Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:38:21.765Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:38:21.801Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T07:43:06.219Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T07:43:06.246Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T07:43:06.259Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T07:43:06.291Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:00:38.585Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:00:38.605Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:00:38.614Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:00:38.639Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:01:14.792Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:01:14.817Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:01:14.826Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:01:14.851Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:01:46.446Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:01:46.466Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:01:46.476Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:01:46.507Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:02:19.187Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:02:19.207Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:02:19.217Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:02:19.246Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:03:04.788Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:03:04.809Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:03:04.820Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:03:04.844Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:04:10.366Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:04:10.396Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:04:10.410Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:04:10.438Z"}
+{"level":"info","message":"@user.controller @login :: undefined","timestamp":"2018-04-15T08:04:14.674Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:05:00.687Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:05:00.706Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:05:00.715Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:05:00.740Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:05:05.951Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:05:49.137Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:05:49.157Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:05:49.166Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:05:49.192Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:05:53.615Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:45:26.989Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:45:27.008Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:45:27.017Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:45:27.042Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:45:41.056Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:46:29.556Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:46:29.579Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:46:29.589Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:46:29.629Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:46:35.309Z"}
+{"level":"error","message":"@createSession :: ValidationError: user_id: Path `user_id` is required.","timestamp":"2018-04-15T08:46:35.336Z"}
+{"level":"error","message":"@user.middleware @login @handleSession:: ValidationError: user_id: Path `user_id` is required.","timestamp":"2018-04-15T08:46:35.337Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:47:05.054Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:47:05.084Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:47:05.097Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:47:05.122Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:47:09.401Z"}
+{"level":"error","message":"@createSession :: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:47:09.413Z"}
+{"level":"error","message":"@user.middleware @login @handleSession:: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:47:09.414Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:48:28.502Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:48:28.521Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:48:28.530Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:48:28.556Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:48:32.119Z"}
+{"level":"error","message":"@createSession :: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:48:32.136Z"}
+{"level":"error","message":"@user.middleware @login @handleSession:: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:48:32.136Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:49:44.026Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:49:44.045Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:49:44.052Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:49:44.079Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:49:47.428Z"}
+{"level":"error","message":"@createSession :: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:49:47.443Z"}
+{"level":"error","message":"@user.middleware @login @handleSession:: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:49:47.445Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:50:43.687Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:50:43.706Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:50:43.716Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:50:43.748Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:50:46.021Z"}
+{"level":"error","message":"@createSession :: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:50:46.033Z"}
+{"level":"error","message":"@user.middleware @login @handleSession:: ValidationError: username: Path `username` is required.","timestamp":"2018-04-15T08:50:46.033Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T08:51:15.412Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T08:51:15.431Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T08:51:15.439Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T08:51:15.465Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T08:51:19.673Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:28:18.443Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:28:18.463Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:28:18.471Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:28:18.497Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T15:28:37.298Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T15:29:55.277Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:30:48.036Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:30:48.055Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:30:48.064Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:30:48.092Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:30:57.625Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:30:57.644Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:30:57.653Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:30:57.680Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:31:25.117Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:31:25.137Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:31:25.146Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:31:25.171Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:32:05.941Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:32:05.961Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:32:05.970Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:32:05.996Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:33:53.431Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:33:53.451Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:33:53.459Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:33:53.484Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-04-15T15:33:57.124Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:34:45.026Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:34:45.045Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:34:45.054Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:34:45.081Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-04-15T15:37:51.750Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-04-15T15:37:51.774Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-04-15T15:37:51.783Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-04-15T15:37:51.810Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-05-15T13:33:56.460Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-05-15T13:33:56.673Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-05-15T13:33:56.520Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-05-15T13:33:56.767Z"}
+{"level":"info","message":"@user.controller @login :: admin@kharipati","timestamp":"2018-05-15T13:34:01.061Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-05-15T13:35:53.905Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-05-15T13:35:53.924Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-05-15T13:35:53.932Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-05-15T13:35:53.957Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-05-15T13:36:37.420Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-05-15T13:36:37.440Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-05-15T13:36:37.449Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-05-15T13:36:37.477Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-05-15T13:37:32.370Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-05-15T13:37:32.399Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-05-15T13:37:32.390Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-05-15T13:37:32.424Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-05-15T13:39:03.923Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-05-15T13:39:03.944Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-05-15T13:39:03.952Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-05-15T13:39:03.982Z"}
+{"level":"info","message":"database account connected on port 27017","timestamp":"2018-06-02T05:53:39.196Z"}
+{"level":"info","message":"Server running at https://localhost:7070","timestamp":"2018-06-02T05:53:39.269Z"}
+{"level":"info","message":"schemas loaded","timestamp":"2018-06-02T05:53:39.259Z"}
+{"level":"info","message":"Super Admin @lready exist!","timestamp":"2018-06-02T05:53:39.348Z"}

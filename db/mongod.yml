@@ -1,0 +1,23 @@
+systemLog:
+  verbosity: 0
+  quiet: false
+  destination: file
+  path: x:/proj/kharipati-account/db/mongod.log
+  logAppend: true
+net:
+  port: 27017
+setParameter:
+  enableLocalhostAuthBypass: true
+storage:
+  dbPath: x:/proj/kharipati-account/db/
+  indexBuildRetry: false
+  journal:
+    enabled: true
+  directoryPerDB: true
+  engine: wiredTiger
+  wiredTiger:
+    engineConfig:
+      journalCompressor: snappy
+      directoryForIndexes: true
+    collectionConfig:
+      blockCompressor: snappy
